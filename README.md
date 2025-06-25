@@ -76,19 +76,6 @@ The dataset includes the following columns:
 
 ---
 
----
-
-## 📂 Repository Structure
-
-
-│
-├── Netflix_Dashboard.pbix # Power BI dashboard file
-├── netflix_titles.csv # Dataset used
-├── dashboard_screenshot.jpg # Dashboard preview image
-└── README.md # Documentation
-
----
-
 ## 🙌 Credits
 
 - Dashboard created by: [Richa Kumari](https://www.linkedin.com/in/richa-kumari-81548331a)
@@ -98,7 +85,4 @@ The dataset includes the following columns:
 ## 📄 License
 
 This project is intended for educational and portfolio purposes only.
-
-
-
 
