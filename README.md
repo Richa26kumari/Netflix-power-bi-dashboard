@@ -46,9 +46,9 @@ The dataset includes the following columns:
 - `show_id`: Unique ID for each title  
 - `type`: Type of the content (`Movie` or `TV Show`)  
 - `title`: Name of the movie or TV show  
-- `director`: Director of the content (may be null)  
-- `cast`: Leading actors in the title (may be null)  
-- `country`: Country of origin (may be multiple or null)  
+- `director`: Director of the content 
+- `cast`: Leading actors in the title   
+- `country`: Country of origin   
 - `date_added`: Date the content was added to Netflix  
 - `release_year`: Year the content was originally released  
 - `rating`: Age classification (e.g., TV-MA, PG, etc.)  
@@ -80,7 +80,7 @@ The dataset includes the following columns:
 
 ## 📂 Repository Structure
 
-📁 Netflix-PowerBI-Dashboard
+
 │
 ├── Netflix_Dashboard.pbix # Power BI dashboard file
 ├── netflix_titles.csv # Dataset used
